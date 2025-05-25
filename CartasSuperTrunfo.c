@@ -126,6 +126,8 @@ printf("Número de Pontos Turísticos: %d\n", pontosTuristicos2);
 printf("Densidade Populacional: %.3f\n", densidadePopulacional2);
 printf("PIB per Capita: %.3f\n", PIBpercapita2);
 
+    //densidade e pib adicionados
+
 
     return 0;
 }
